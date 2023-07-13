@@ -123,4 +123,6 @@ This tutorial is just a brief introduction and quick start. For more info, pleas
 
 For more info on SBGN, please check the official [SBGN project website](https://sbgn.github.io/)
 
-For any questions, please contact Kovidh Vegesna (kvegesna [AT] uncc.edu) or Weijun Luo (luo_weijun [AT] yahoo.com)
+Please send all queries to [Jose Luis Figueroa](mailto:jlfiguer@uncc.edu) <br />
+[Dr. Richard Allen White III](mailto:rwhit101@uncc.edu)<br />
+Or [open an issue](https://github.com/Kannapolis-Bioinformatics/SBGNview/issues)
